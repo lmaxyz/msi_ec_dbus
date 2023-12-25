@@ -1,0 +1,4 @@
+[D-BUS Service]
+Name=org.msi_ec_backend
+Exec=/usr/libexec/msi_ec_backend
+User=root
